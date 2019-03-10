@@ -1,0 +1,12 @@
+1. Abstract of Project
+2. UML Design Of Project
+3. SRS Document of Project
+4. Sequence Diagram of Project
+5. DFD of Project
+6. Working Part ( if available )
+
+Google Drive Link
+
+https://drive.google.com/open?id=1_i3aFU5vxf8HO9c1RBSh_AVt9in6VIUB 
+
+Please name your folder with your Reg Number follow by your name . e.g. 18MCMI19_HemChandra
